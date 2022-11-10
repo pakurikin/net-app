@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pakurikin/net-app.git/static/css/main.073c9b0a.css",
+    "main.js": "/pakurikin/net-app.git/static/js/main.0ea8cda9.js",
+    "static/js/787.11d482ac.chunk.js": "/pakurikin/net-app.git/static/js/787.11d482ac.chunk.js",
+    "static/media/logo.svg": "/pakurikin/net-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pakurikin/net-app.git/index.html",
+    "main.073c9b0a.css.map": "/pakurikin/net-app.git/static/css/main.073c9b0a.css.map",
+    "main.0ea8cda9.js.map": "/pakurikin/net-app.git/static/js/main.0ea8cda9.js.map",
+    "787.11d482ac.chunk.js.map": "/pakurikin/net-app.git/static/js/787.11d482ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0ea8cda9.js"
+  ]
+}
